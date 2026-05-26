@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>**AegisNet**: Plateforme complète d'analyse cyber, supervision et intelligence décisionnelle</i>
+  <i>AegisNet: Plateforme complète d'analyse cyber, supervision et intelligence décisionnelle</i>
 </p>
 
 ---
